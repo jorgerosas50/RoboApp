@@ -1,4 +1,14 @@
 <resources>
     <string name="app_name">RoboApp</string>
     <string name="btnValue">Push</string>
+
+    <string name="txtViewStr">Bluetooth Example</string>
+    <string name="textViewStr">Sample</string>
+    <string name="pairedDevicesStr">Paired devices:</string>
+
+    <string name="btnTurnOnStr">Turn on</string>
+    <string name="btnTurnOffStr">Turn off</string>
+    <string name="btnGetVisibleStr">Get visible</string>
+    <string name="btnListDevicesStr">List Devices</string>
+
 </resources>
