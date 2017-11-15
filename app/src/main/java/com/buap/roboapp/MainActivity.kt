@@ -13,6 +13,6 @@ class MainActivity : AppCompatActivity() {
     }
 
     fun btnExampleMethod(view: View) {
-        Toast.makeText(this, "Hello world", Toast.LENGTH_LONG).show()
+        Toast.makeText(this, "Hello world", Toast.LENGTH_SHORT).show()
     }
 }
